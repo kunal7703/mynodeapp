@@ -7,7 +7,7 @@ const app = express();
 
 app.get('/', (req, res) => {
 
-  res.send('welcome to Nodejs App');
+  res.send('Hello from Nodejs App');
 
 });
 
